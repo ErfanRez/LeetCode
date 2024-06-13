@@ -13,7 +13,7 @@ class Solution {
 
 //My way: Big-O = O(n)
 
-// int index = 0;
+//         int index = 0;
 //         Set<Integer> unique = new HashSet<>();
 
 //         for(int i = 0; i < nums.length; i++){
