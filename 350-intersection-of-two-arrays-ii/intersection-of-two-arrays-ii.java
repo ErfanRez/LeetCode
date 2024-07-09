@@ -25,7 +25,7 @@ class Solution {
     }
 }
 
-//Another way:
+//Another way (More optimized):
 
 // class Solution {
 //     public int[] intersect(int[] nums1, int[] nums2) {
