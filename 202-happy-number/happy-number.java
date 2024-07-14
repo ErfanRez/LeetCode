@@ -1,5 +1,6 @@
 class Solution {
     public boolean isHappy(int n) {
+        if(n == 1) return true;
         
         int slow = n;
         int fast = n;
