@@ -6,9 +6,9 @@ class Solution {
             orderMap.put(str, orderMap.getOrDefault(str, 0) + 1);
         }
         
-        for (Map.Entry<String, Integer> entry : orderMap.entrySet()) {
-            if (entry.getValue() == 1 && --k == 0) {
-                return entry.getKey();
+        for (String key : orderMap.keySet()) {
+            if (orderMap.get(key) == 1 && --k == 0) {
+                return key;
             }
         }
         
