@@ -47,3 +47,4 @@
 	<li>The value of each node in the list is <strong>unique</strong>.</li>
 	<li>The <code>node</code> to be deleted is <strong>in the list</strong> and is <strong>not a tail</strong> node.</li>
 </ul>
+<img src="https://assets.leetcode.com/users/images/1d9363ee-924a-48c9-a894-cbf5bec1e985_1714872196.8337712.png" alt="image.png">
