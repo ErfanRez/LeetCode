@@ -25,3 +25,4 @@
 	<li><code>-10 &lt;= nums[i] &lt;= 10</code></li>
 	<li>All the numbers of&nbsp;<code>nums</code> are <strong>unique</strong>.</li>
 </ul>
+<img src="https://assets.leetcode.com/users/images/91e72321-e214-49db-8a46-43d02db5103c_1714409832.6692474.png" alt="スクリーンショット 2024-04-30 1.56.40.png">
