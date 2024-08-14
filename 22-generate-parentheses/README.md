@@ -14,3 +14,4 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 8</code></li>
 </ul>
+<img src="https://assets.leetcode.com/users/images/f0250381-4395-4073-ad33-55d7818d1e4f_1719931423.3694198.png" alt="スクリーンショット 2024-07-02 23.40.50.png">
