@@ -28,11 +28,11 @@ class Solution {
         while(!queue.isEmpty()){
             int size = queue.size();
             for(int i = 0; i < size; i++){
-                TreeNode node = queue.poll();
+                TreeNode node = queue.peek();
                 if(node.left != null) queue.add(node.left);
                 if(node.right != null) queue.add(node.right);
 
-                temp.add(node.val);
+                temp.add(queue.poll().val);
             }
 
             result.add(new ArrayList<>(temp));
