@@ -23,23 +23,20 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
 
-        List<Integer> temp = new ArrayList<>();
-
         while(!queue.isEmpty()){
             int size = queue.size();
+            List<Integer> temp = new ArrayList<>(); // Create a new list each time
             for(int i = 0; i < size; i++){
-                TreeNode node = queue.peek();
+                TreeNode node = queue.poll();
                 if(node.left != null) queue.add(node.left);
                 if(node.right != null) queue.add(node.right);
 
-                temp.add(queue.poll().val);
+                temp.add(node.val);
             }
 
-            result.add(new ArrayList<>(temp));
-            temp.clear();
+            result.add(temp); // No need to copy the list, just add it directly
         }
             
         return result;
     }
-        
 }
