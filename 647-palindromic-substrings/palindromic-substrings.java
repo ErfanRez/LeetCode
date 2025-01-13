@@ -1,26 +1,37 @@
 class Solution {
     public int countSubstrings(String s) {
-        int count = 0;
+        int n = s.length();
+        StringBuilder t = new StringBuilder("#");
 
-        for(int i = 0; i < s.length(); i++){
-
-            int l = i;
-            int r = i;
-            while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-                count++;
-                l--;
-                r++;
-            }
-
-            l = i;
-            r = i + 1;
-            while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)){
-                count++;
-                l--;
-                r++;
-            }
+        for (char c : s.toCharArray()) {
+            t.append(c).append("#");
         }
-        
+        n = t.length();
+        int[] dp = new int[n];
+        int center = 0, right = 0;
+        int count = 0;
+        for (int i = 0; i < n; i++) {
+            int mirror = 2 * center - i;
+            if (i < right) {
+                dp[i] = Math.min(right - i, dp[mirror]);
+            }
+            // Attempt to expand palindrome centered at i
+            int a = i + (1 + dp[i]);
+            int b = i - (1 + dp[i]);
+            while (a < n && b >= 0 && t.charAt(a) == t.charAt(b)) {
+                dp[i]++;
+                a++;
+                b--;
+            }
+            // If palindrome centered at i expands past right,
+            // adjust center and right boundaries
+            if (i + dp[i] > right) {
+                center = i;
+                right = i + dp[i];
+            }
+            // Count the palindromes found at index i
+            count += (dp[i] + 1) / 2;
+        }
         return count;
     }
 }
