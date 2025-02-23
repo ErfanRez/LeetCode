@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ErfanRez/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
