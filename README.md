@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/ErfanRez/LeetCode/tree/master/0177-nth-highest-salary) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ErfanRez/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ErfanRez/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3816-dna-pattern-recognition](https://github.com/ErfanRez/LeetCode/tree/master/3816-dna-pattern-recognition) |
 ## Bit Manipulation
 |  |
 | ------- |
