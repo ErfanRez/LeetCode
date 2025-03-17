@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ErfanRez/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/ErfanRez/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
