@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ErfanRez/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ErfanRez/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/ErfanRez/LeetCode/tree/master/0414-third-maximum-number) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ErfanRez/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/ErfanRez/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
