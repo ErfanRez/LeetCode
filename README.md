@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ErfanRez/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ErfanRez/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ErfanRez/LeetCode/tree/master/0414-third-maximum-number) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/ErfanRez/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1764-maximum-repeating-substring](https://github.com/ErfanRez/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/ErfanRez/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ErfanRez/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
