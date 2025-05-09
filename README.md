@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ErfanRez/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/ErfanRez/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ErfanRez/LeetCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ErfanRez/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ErfanRez/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ErfanRez/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/ErfanRez/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
