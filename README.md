@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ErfanRez/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ErfanRez/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ErfanRez/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ErfanRez/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
