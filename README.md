@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ErfanRez/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/ErfanRez/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2154-minimum-moves-to-convert-string](https://github.com/ErfanRez/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ErfanRez/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ErfanRez/LeetCode/tree/master/0561-array-partition) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2154-minimum-moves-to-convert-string](https://github.com/ErfanRez/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
