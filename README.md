@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ErfanRez/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ErfanRez/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/ErfanRez/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ErfanRez/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ErfanRez/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ErfanRez/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
