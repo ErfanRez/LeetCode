@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ErfanRez/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/ErfanRez/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/ErfanRez/LeetCode/tree/master/0792-binary-search) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ErfanRez/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ErfanRez/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/ErfanRez/LeetCode/tree/master/0792-binary-search) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/ErfanRez/LeetCode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Ordered Set
 |  |
