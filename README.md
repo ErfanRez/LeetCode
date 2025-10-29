@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/ErfanRez/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ErfanRez/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ErfanRez/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3312-number-of-changing-keys](https://github.com/ErfanRez/LeetCode/tree/master/3312-number-of-changing-keys) |
 ## Greedy
 |  |
 | ------- |
