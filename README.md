@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ErfanRez/LeetCode/tree/master/0189-rotate-array) |
 | [1086-divisor-game](https://github.com/ErfanRez/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ErfanRez/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ErfanRez/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ErfanRez/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ErfanRez/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ErfanRez/LeetCode/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/ErfanRez/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ErfanRez/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ErfanRez/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ErfanRez/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ErfanRez/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ErfanRez/LeetCode/tree/master/0680-valid-palindrome-ii) |
