@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/ErfanRez/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/ErfanRez/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ErfanRez/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/ErfanRez/LeetCode/tree/master/1002-find-common-characters) |
 | [1603-running-sum-of-1d-array](https://github.com/ErfanRez/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2077-largest-number-after-mutating-substring](https://github.com/ErfanRez/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ErfanRez/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/ErfanRez/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/ErfanRez/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [1002-find-common-characters](https://github.com/ErfanRez/LeetCode/tree/master/1002-find-common-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/ErfanRez/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1764-maximum-repeating-substring](https://github.com/ErfanRez/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ErfanRez/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ErfanRez/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ErfanRez/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1002-find-common-characters](https://github.com/ErfanRez/LeetCode/tree/master/1002-find-common-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/ErfanRez/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ErfanRez/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
