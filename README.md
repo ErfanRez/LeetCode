@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ErfanRez/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/ErfanRez/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [1002-find-common-characters](https://github.com/ErfanRez/LeetCode/tree/master/1002-find-common-characters) |
+| [1556-thousand-separator](https://github.com/ErfanRez/LeetCode/tree/master/1556-thousand-separator) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/ErfanRez/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1764-maximum-repeating-substring](https://github.com/ErfanRez/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ErfanRez/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
