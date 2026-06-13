@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/ErfanRez/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/ErfanRez/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ErfanRez/LeetCode/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/ErfanRez/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ErfanRez/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ErfanRez/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3816-dna-pattern-recognition](https://github.com/ErfanRez/LeetCode/tree/master/3816-dna-pattern-recognition) |
